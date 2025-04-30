@@ -53,14 +53,7 @@ npm run dev
 
 > Frontend: `http://localhost:5173`  
 > Backend: `http://localhost:5400`
-
-## 👨‍💻 Author
-Frontend HR system developed by **Shuhao Ruan**  
-- Fullstack engineer with React + Redux expertise  
-- Trained via Chuwa America project-based curriculum  
-- 📄 Resume available upon request  
-- 📫 Email: your.email@example.com
-
+> 
 ---
 
 > This repo highlights my ability to deliver enterprise-level frontend functionality with Redux, React, and backend API integration.
